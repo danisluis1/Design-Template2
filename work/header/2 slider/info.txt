@@ -1,0 +1,13 @@
+﻿1. Bấm phím control nhấp vào rectangle tool để lấy vùng chọn nhé.
+2. Muốn vẽ gradient trên vùng chọn gradient tool và điều không thể
+=> sử dụng một layer
+Vậy cách làm như sau:
+B1. Vẽ Rounded Rectangle Tool
+B2. Chọn Ctrl + Enter để tạo ra vùng chọn Rounded Rectangle Tool
+B3. Ctrl + Shift + New để vẽ ra một layer mới
+B4. Dựa trên vùng chọn đã có ta bấm Ctrl + Delele hoặc Alt + Delete để vẽ màu
+B5. Dựa trên vùng chọn đó ta vẽ màu gradient tool
+B6. Tiến hành xóa bỏ Rounded Rectangle Tool 
+3. Để sử dụng được custom shape ta tiến hành
+B1. Vào http://www.shapes4free.com/ dowload
+B2. Chọn Edit => Preset Manager => Chọn Custom Shap => Chọn Load Và trở đến thư mục tải về

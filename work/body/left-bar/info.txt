@@ -1,0 +1,2 @@
+﻿Ctrl + Chuột trái => Vùng chọn của Rectangle 
+Ctrl + Enter => Vùng chọn của Rectangle Tool

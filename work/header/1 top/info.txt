@@ -1,0 +1,5 @@
+﻿Lưu ý với vùng chọn rectangle muốn tô màu bạn cần tạo layout cho nó, Vì thế việc sử dụng vùng chọn
+Rectangle Tool hiệu quả hơn nhiều nhé.
++ Bấm Alt + Shift để nhân đôi đối tượng ra và kéo theo một hướng khác.
++ Bấm Ctrl + J để double đối tượng nhé.
+Bấm Shift và trỏ vào đối tượng để thiết lập vùng chọn sau đó chọn công cụ gradient tool thiết lập màu gradient nhé.
