@@ -1,0 +1,6 @@
+﻿Kỹ thuật xóa
+- Chọn đối tượng cần xóa
+- Sau đó nhấn phím delete nhé.
+=> Để xóa mà không ảnh hưởng đến tất cả các layer khác thì ta xóa đi[Ctrl + Shift + I => Vùng chọn nghịch đảo nhé.]
+- Để hòa trộn tấm hình 
+Ta chọn class chọn Multiple với Layer cần hòa trộn đặt trên layer hòa trộn nhé.
